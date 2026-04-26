@@ -152,6 +152,13 @@ The **Learning Agent** then distill these results. If an article scored exceptio
 ## 📄 Detailed Technical Article
 For an in-depth exploration of the architecture, design principles, and engineering decisions behind this project, please download and view the [Detailed Technical Article](./SEO_Content_Engine_Article.html).
 
+## ⚖️ Engineering Judgment & Reflections
+For an honest assessment of the system's limitations, quality gate risks, and architectural trade-offs, see the [JUDGEMENT.md](./JUDGEMENT.md) file. This document covers:
+- What would break the quality gate (False Negatives).
+- Specifics of what the learning layer knows after each loop.
+- Scalability risks for multi-client deployment.
+- Technical cuts made for the initial release.
+
 ---
 
 ## 🛠️ Technical Stack

@@ -794,6 +794,22 @@ run_streamlit.bat               # Windows</div>
                 <p><strong>A:</strong> It's real. We've tested it. Loop 2 literally reads Loop 1's knowledge store. It knows which topics to avoid, which structures work, what needs fixing. Not simulation.</p>
             </div>
 
+            <!-- Engineering Judgment -->
+            <div class="section">
+                <h2>Architectural Reflections & Judgment</h2>
+                <p>No system is perfect, especially one that handles autonomous content generation. A separate deep-dive document, <strong>JUDGEMENT.md</strong>, has been prepared to provide an honest assessment of the engine's current state.</p>
+                <div class="key-insight">
+                    <strong>Key Reflections Covered:</strong>
+                    <ul class="feature-list">
+                        <li><strong>Quality Gate Risks:</strong> How structural checks can be gamed and what I'd add to prevent "semantic gaming."</li>
+                        <li><strong>Learning Specifics:</strong> A detailed breakdown of exactly what data persists between loops.</li>
+                        <li><strong>Scalability Challenges:</strong> Handling context explosion and file contention at 500+ posts.</li>
+                        <li><strong>Strategic Cuts:</strong> Why certain features (like real-time SEMrush integration) were deferred in favour of core architecture.</li>
+                    </ul>
+                </div>
+                <p>I encourage technical reviewers to read <code>JUDGEMENT.md</code> for a candid look at the trade-offs made during the engineering process.</p>
+            </div>
+
             <!-- Conclusion -->
             <div class="section">
                 <h2>Conclusion: The Future of Content Automation</h2>
