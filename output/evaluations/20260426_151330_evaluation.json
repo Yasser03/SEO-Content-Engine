@@ -1,0 +1,36 @@
+{
+  "run_id": "20260426_151330",
+  "timestamp": "2026-04-26T15:13:36.780598+00:00",
+  "post_title": "AI for Business Growth: A Step-by-Step Guide",
+  "post_slug": "ai-for-business-growth-a-step-by-step-guide",
+  "primary_keyword": "AI for business growth",
+  "quality_gate": {
+    "passed": true,
+    "score": 0.852,
+    "failures": [],
+    "warnings": []
+  },
+  "evaluation": {
+    "overall_score": 0.829,
+    "semantic_coverage_score": 0.7,
+    "keyword_score": 0.778,
+    "readability_score": 1.0,
+    "structural_score": 0.833,
+    "internal_linking_score": 1.0,
+    "findings": [
+      "Only 1/3 secondary keywords covered",
+      "No lists detected \u2014 add bullet points or numbered lists for scannability"
+    ],
+    "strengths": [
+      "Introduction to AI for business growth",
+      "Understanding AI applications in various business areas",
+      "Identifying business needs for AI implementation"
+    ],
+    "improvements": [
+      "Lack of detailed business automation strategies",
+      "Insufficient information on AI implementation guide",
+      "Limited discussion on AI solutions for startups beyond general mentions"
+    ]
+  },
+  "knowledge_store_summary": "Loops completed: 8 | Topics covered: 8 | Avg score: 0.847 | Best: 0.913 | Worst: 0.778"
+}

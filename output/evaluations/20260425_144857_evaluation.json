@@ -1,0 +1,35 @@
+{
+  "run_id": "20260425_144857",
+  "timestamp": "2026-04-25T14:49:07.485436+00:00",
+  "post_title": "Startup Automation: Boost Efficiency Now",
+  "post_slug": "startup-automation-boost-efficiency-now",
+  "primary_keyword": "startup automation",
+  "quality_gate": {
+    "passed": true,
+    "score": 0.904,
+    "failures": [],
+    "warnings": []
+  },
+  "evaluation": {
+    "overall_score": 0.883,
+    "semantic_coverage_score": 0.7,
+    "keyword_score": 1.0,
+    "readability_score": 0.867,
+    "structural_score": 1.0,
+    "internal_linking_score": 1.0,
+    "findings": [
+      "3 paragraph(s) are too dense \u2014 break them up"
+    ],
+    "strengths": [
+      "clear introduction to startup automation and its benefits",
+      "good explanation of business process automation and its importance",
+      "identification of areas for automation, such as email marketing and bookkeeping"
+    ],
+    "improvements": [
+      "lack of specific automation tools and technologies",
+      "insufficient discussion on startup efficiency and how automation can improve it",
+      "need for more concrete examples and case studies of successful automation strategies"
+    ]
+  },
+  "knowledge_store_summary": "Loops completed: 5 | Topics covered: 5 | Avg score: 0.849 | Best: 0.913 | Worst: 0.778"
+}

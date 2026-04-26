@@ -1,0 +1,36 @@
+{
+  "run_id": "20260426_150820",
+  "timestamp": "2026-04-26T15:08:26.719903+00:00",
+  "post_title": "Streamline Operations with AI Workflow Automation",
+  "post_slug": "streamline-operations-with-ai-workflow-automation",
+  "primary_keyword": "AI workflow automation",
+  "quality_gate": {
+    "passed": true,
+    "score": 0.897,
+    "failures": [],
+    "warnings": []
+  },
+  "evaluation": {
+    "overall_score": 0.858,
+    "semantic_coverage_score": 0.7,
+    "keyword_score": 1.0,
+    "readability_score": 0.867,
+    "structural_score": 0.833,
+    "internal_linking_score": 1.0,
+    "findings": [
+      "4 paragraph(s) are too dense \u2014 break them up",
+      "No lists detected \u2014 add bullet points or numbered lists for scannability"
+    ],
+    "strengths": [
+      "clear introduction to AI workflow automation and its benefits",
+      "good coverage of workflow optimization and its relation to AI implementation",
+      "identification of areas for automation and potential applications of AI"
+    ],
+    "improvements": [
+      "lack of in-depth discussion on business process automation",
+      "limited exploration of challenges and potential pitfalls in AI implementation",
+      "need for more concrete examples and case studies to illustrate successful AI workflow automation"
+    ]
+  },
+  "knowledge_store_summary": "Loops completed: 7 | Topics covered: 7 | Avg score: 0.85 | Best: 0.913 | Worst: 0.778"
+}

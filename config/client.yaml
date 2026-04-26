@@ -1,0 +1,45 @@
+# ─────────────────────────────────────────────────────────────────────────────
+# SEO-Content-Engine – Client Configuration
+# Change ONLY this file to deploy for a new client domain. No code changes needed.
+# ─────────────────────────────────────────────────────────────────────────────
+
+client:
+  name: "TechStartup Blog"
+  domain: "techstartup.io"
+  base_url: "https://techstartup.io/blog"
+
+topic:
+  seed_keywords:
+    - "AI productivity tools"
+    - "startup automation"
+    - "machine learning for small business"
+    - "no-code AI"
+    - "ChatGPT for business"
+  domain_niche: "AI tools and automation for startups and SMBs"
+  target_audience: "non-technical founders and startup operators aged 28–45"
+  tone: "practical, direct, jargon-light but technically credible"
+  avoid_topics:
+    - "cryptocurrency"
+    - "NFTs"
+    - "get-rich-quick"
+
+publish:
+  destination: "local_markdown"     # options: local_markdown | webhook
+  output_dir: "output/posts"
+  webhook_url: ""                    # set if destination = webhook
+
+quality_gate:
+  min_word_count: 600
+  max_word_count: 2500
+  min_score: 0.65                    # 0.0–1.0; posts scoring below this are rejected
+  required_sections:                 # deterministic check — at least these H2s must exist
+    - "Introduction"
+    - "Conclusion"
+  min_keyword_density: 0.005         # 0.5% minimum keyword density (deterministic)
+  max_keyword_density: 0.030         # 3.0% maximum to avoid stuffing (deterministic)
+
+llm:
+  provider: "groq"                   # options: groq | openai | anthropic
+  model: "llama-3.3-70b-versatile"  # fast + free tier friendly
+  temperature: 0.7
+  max_tokens: 3000

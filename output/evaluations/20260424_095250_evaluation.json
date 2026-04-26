@@ -1,0 +1,36 @@
+{
+  "run_id": "20260424_095250",
+  "timestamp": "2026-04-24T09:52:57.315194+00:00",
+  "post_title": "Streamline Operations with No-Code AI Solutions",
+  "post_slug": "streamline-operations-with-no-code-ai-solutions",
+  "primary_keyword": "no-code AI",
+  "quality_gate": {
+    "passed": true,
+    "score": 0.799,
+    "failures": [],
+    "warnings": []
+  },
+  "evaluation": {
+    "overall_score": 0.813,
+    "semantic_coverage_score": 0.6,
+    "keyword_score": 1.0,
+    "readability_score": 0.867,
+    "structural_score": 1.0,
+    "internal_linking_score": 0.6,
+    "findings": [
+      "2 paragraph(s) are too dense \u2014 break them up",
+      "Only 1 internal link \u2014 aim for 2\u20134 per post"
+    ],
+    "strengths": [
+      "clear introduction to no-code AI solutions",
+      "explanation of benefits, including time and resource savings",
+      "step-by-step guide to implementing no-code AI solutions"
+    ],
+    "improvements": [
+      "limited discussion on startup automation and its specific needs",
+      "insufficient exploration of machine learning for small business beyond general benefits",
+      "lack of concrete examples or case studies of ChatGPT for business applications"
+    ]
+  },
+  "knowledge_store_summary": "Loops completed: 2 | Topics covered: 2 | Avg score: 0.795 | Best: 0.813 | Worst: 0.778"
+}

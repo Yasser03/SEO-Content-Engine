@@ -1,0 +1,17 @@
+[project]
+name = "SEO-Content-Engine"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=0.97.0",
+    "groq>=1.2.0",
+    "openai>=2.32.0",
+    "plotly>=6.7.0",
+    "pytest>=9.0.3",
+    "python-dotenv>=1.2.2",
+    "pyyaml>=6.0.3",
+    "requests>=2.33.1",
+    "streamlit>=1.56.0",
+]

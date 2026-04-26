@@ -1,0 +1,39 @@
+{
+  "run_id": "20260424_092423",
+  "timestamp": "2026-04-24T09:24:29.073693+00:00",
+  "post_title": "Boost Startup Efficiency with AI Productivity Tools",
+  "post_slug": "boost-startup-efficiency-with-ai-productivity-tools",
+  "primary_keyword": "AI productivity tools",
+  "quality_gate": {
+    "passed": true,
+    "score": 0.765,
+    "failures": [],
+    "warnings": [
+      "No internal links detected \u2014 add at least one for SEO"
+    ]
+  },
+  "evaluation": {
+    "overall_score": 0.778,
+    "semantic_coverage_score": 0.7,
+    "keyword_score": 1.0,
+    "readability_score": 0.867,
+    "structural_score": 0.833,
+    "internal_linking_score": 0.2,
+    "findings": [
+      "3 paragraph(s) are too dense \u2014 break them up",
+      "No lists detected \u2014 add bullet points or numbered lists for scannability",
+      "No internal links \u2014 critical for SEO and site architecture"
+    ],
+    "strengths": [
+      "Introduction to AI productivity tools and their benefits",
+      "Explanation of no-code AI solutions and their ease of use",
+      "Mention of machine learning for small business"
+    ],
+    "improvements": [
+      "Lack of in-depth discussion on startup automation",
+      "Limited examples of real-world startups that have successfully leveraged AI productivity tools",
+      "Insufficient guidance on implementing AI productivity tools beyond a general step-by-step approach"
+    ]
+  },
+  "knowledge_store_summary": "Loops completed: 1 | Topics covered: 1 | Avg score: 0.778 | Best: 0.778 | Worst: 0.778"
+}

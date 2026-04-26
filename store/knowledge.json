@@ -1,0 +1,185 @@
+{
+  "version": "1.0",
+  "created_at": "2026-04-24T09:24:23.016563+00:00",
+  "last_updated": "2026-04-26T15:13:36.777234+00:00",
+  "topics_covered": [
+    {
+      "slug": "boost-startup-efficiency-with-ai-productivity-tools",
+      "title": "Boost Startup Efficiency with AI Productivity Tools",
+      "primary_keyword": "AI productivity tools",
+      "date": "2026-04-24T09:24:29.069718+00:00"
+    },
+    {
+      "slug": "streamline-operations-with-no-code-ai-solutions",
+      "title": "Streamline Operations with No-Code AI Solutions",
+      "primary_keyword": "no-code AI",
+      "date": "2026-04-24T09:52:57.309585+00:00"
+    },
+    {
+      "slug": "machine-learning-for-small-business-efficiency",
+      "title": "Machine Learning for Small Business Efficiency",
+      "primary_keyword": "machine learning for small business",
+      "date": "2026-04-25T14:30:49.275051+00:00"
+    },
+    {
+      "slug": "boosting-productivity-with-chatgpt-for-business",
+      "title": "Boosting Productivity with ChatGPT for Business",
+      "primary_keyword": "ChatGPT for business",
+      "date": "2026-04-25T14:33:50.694765+00:00"
+    },
+    {
+      "slug": "startup-automation-boost-efficiency-now",
+      "title": "Startup Automation: Boost Efficiency Now",
+      "primary_keyword": "startup automation",
+      "date": "2026-04-25T14:49:07.482053+00:00"
+    },
+    {
+      "slug": "ai-for-smbs-a-practical-guide-to-implementation",
+      "title": "AI for SMBs: A Practical Guide to Implementation",
+      "primary_keyword": "AI for SMBs",
+      "date": "2026-04-25T14:50:57.071963+00:00"
+    },
+    {
+      "slug": "streamline-operations-with-ai-workflow-automation",
+      "title": "Streamline Operations with AI Workflow Automation",
+      "primary_keyword": "AI workflow automation",
+      "date": "2026-04-26T15:08:26.704410+00:00"
+    },
+    {
+      "slug": "ai-for-business-growth-a-step-by-step-guide",
+      "title": "AI for Business Growth: A Step-by-Step Guide",
+      "primary_keyword": "AI for business growth",
+      "date": "2026-04-26T15:13:36.777180+00:00"
+    }
+  ],
+  "keyword_usage": {
+    "ai productivity tools": 1,
+    "no-code ai": 1,
+    "machine learning for small business": 1,
+    "chatgpt for business": 1,
+    "startup automation": 1,
+    "ai for smbs": 1,
+    "ai workflow automation": 1,
+    "ai for business growth": 1
+  },
+  "quality_history": [
+    {
+      "run_id": "20260424_092423",
+      "score": 0.778,
+      "date": "2026-04-24T09:24:29.069747+00:00"
+    },
+    {
+      "run_id": "20260424_095250",
+      "score": 0.813,
+      "date": "2026-04-24T09:52:57.309621+00:00"
+    },
+    {
+      "run_id": "20260425_143043",
+      "score": 0.858,
+      "date": "2026-04-25T14:30:49.275083+00:00"
+    },
+    {
+      "run_id": "20260425_143344",
+      "score": 0.913,
+      "date": "2026-04-25T14:33:50.694794+00:00"
+    },
+    {
+      "run_id": "20260425_144857",
+      "score": 0.883,
+      "date": "2026-04-25T14:49:07.482076+00:00"
+    },
+    {
+      "run_id": "20260425_145051",
+      "score": 0.846,
+      "date": "2026-04-25T14:50:57.071991+00:00"
+    },
+    {
+      "run_id": "20260426_150820",
+      "score": 0.858,
+      "date": "2026-04-26T15:08:26.704435+00:00"
+    },
+    {
+      "run_id": "20260426_151330",
+      "score": 0.829,
+      "date": "2026-04-26T15:13:36.777201+00:00"
+    }
+  ],
+  "learned_patterns": {
+    "high_performing_structures": [
+      "Introduction \u2192 Understanding AI Productivity Tools \u2192 Implementing AI Productivity Tools \u2192 Real-World Examples of AI Productivity in Action \u2192 Conclusion",
+      "Introduction \u2192 Understanding No-Code AI Solutions \u2192 Implementing No-Code AI Solutions \u2192 Real-World Examples of No-Code AI in Action \u2192 Conclusion",
+      "Introduction \u2192 Understanding Machine Learning for Small Business \u2192 Implementing Machine Learning for Small Business Efficiency \u2192 Real-World Examples of Machine Learning in Action \u2192 Conclusion",
+      "Introduction \u2192 Understanding ChatGPT for Business \u2192 Implementing ChatGPT for Business \u2192 Real-World Examples of ChatGPT for Business \u2192 Conclusion",
+      "Introduction \u2192 Understanding Business Process Automation \u2192 Implementing Startup Automation \u2192 Real-World Examples of Startup Automation \u2192 Conclusion",
+      "Introduction \u2192 Understanding AI Adoption \u2192 Implementing AI for SMBs \u2192 Real-World Examples of AI for SMBs \u2192 Conclusion",
+      "Introduction \u2192 Understanding Workflow Optimization \u2192 Implementing AI Workflow Automation \u2192 Real-World Examples of AI Workflow Automation \u2192 Conclusion",
+      "Introduction \u2192 Understanding AI for Business Growth \u2192 Implementing AI Solutions \u2192 Measuring Success \u2192 Conclusion"
+    ],
+    "low_performing_patterns": [
+      "Lack of in-depth discussion on startup automation",
+      "Limited examples of real-world startups that have successfully leveraged AI productivity tools",
+      "Insufficient guidance on implementing AI productivity tools beyond a general step-by-step approach",
+      "limited discussion on startup automation and its specific needs",
+      "insufficient exploration of machine learning for small business beyond general benefits",
+      "lack of concrete examples or case studies of ChatGPT for business applications",
+      "lack of in-depth discussion on startup automation",
+      "limited exploration of AI for business beyond machine learning",
+      "insufficient examples of how ChatGPT for business can be used for specific business tasks",
+      "more detailed examples of startup automation using ChatGPT",
+      "in-depth discussion of other AI automation tools for comparison",
+      "practical guidance on integrating ChatGPT with existing business operations and systems",
+      "lack of specific automation tools and technologies",
+      "insufficient discussion on startup efficiency and how automation can improve it",
+      "need for more concrete examples and case studies of successful automation strategies",
+      "Limited discussion on business automation and its applications",
+      "Lack of in-depth exploration of SMB technology and its role in AI implementation",
+      "Insufficient examples or case studies to illustrate successful AI implementation strategies",
+      "lack of in-depth discussion on business process automation",
+      "limited exploration of challenges and potential pitfalls in AI implementation",
+      "need for more concrete examples and case studies to illustrate successful AI workflow automation",
+      "Lack of detailed business automation strategies",
+      "Insufficient information on AI implementation guide",
+      "Limited discussion on AI solutions for startups beyond general mentions"
+    ],
+    "avg_quality_score": 0.847,
+    "best_score": 0.913,
+    "worst_score": 0.778
+  },
+  "avoid_topics": [],
+  "preferred_angles": [
+    "Introduction to AI productivity tools and their benefits",
+    "Explanation of no-code AI solutions and their ease of use",
+    "Mention of machine learning for small business",
+    "clear introduction to no-code AI solutions",
+    "explanation of benefits, including time and resource savings",
+    "step-by-step guide to implementing no-code AI solutions",
+    "clear introduction to machine learning for small business",
+    "basic explanation of machine learning and its applications",
+    "mention of ChatGPT for business as a tool for getting started with machine learning",
+    "clear introduction to ChatGPT for business",
+    "explanation of benefits such as improved productivity and reduced costs",
+    "basic overview of how ChatGPT can automate routine tasks",
+    "clear introduction to startup automation and its benefits",
+    "good explanation of business process automation and its importance",
+    "identification of areas for automation, such as email marketing and bookkeeping",
+    "Introduction to AI for SMBs and its benefits",
+    "Clear explanation of AI adoption and its significance for small businesses",
+    "Practical guidance on assessing AI readiness",
+    "clear introduction to AI workflow automation and its benefits",
+    "good coverage of workflow optimization and its relation to AI implementation",
+    "identification of areas for automation and potential applications of AI",
+    "Introduction to AI for business growth",
+    "Understanding AI applications in various business areas",
+    "Identifying business needs for AI implementation"
+  ],
+  "internal_link_map": {
+    "boost-startup-efficiency-with-ai-productivity-tools": "Boost Startup Efficiency with AI Productivity Tools",
+    "streamline-operations-with-no-code-ai-solutions": "Streamline Operations with No-Code AI Solutions",
+    "machine-learning-for-small-business-efficiency": "Machine Learning for Small Business Efficiency",
+    "boosting-productivity-with-chatgpt-for-business": "Boosting Productivity with ChatGPT for Business",
+    "startup-automation-boost-efficiency-now": "Startup Automation: Boost Efficiency Now",
+    "ai-for-smbs-a-practical-guide-to-implementation": "AI for SMBs: A Practical Guide to Implementation",
+    "streamline-operations-with-ai-workflow-automation": "Streamline Operations with AI Workflow Automation",
+    "ai-for-business-growth-a-step-by-step-guide": "AI for Business Growth: A Step-by-Step Guide"
+  }
+}
