@@ -8,6 +8,12 @@
 
 ---
 
+### 🚀 [Try the Live Dashboard Now!](https://seo-content-engine.streamlit.app/)
+
+The engine is deployed and ready for immediate testing. No installation required.
+
+---
+
 ## 01 Understanding the Problem
 SEO content generation is a domain plagued by a "quality vs. quantity" paradox. Traditional automated tools often prioritize volume, resulting in generic, keyword-stuffed "fluff" that search engines increasingly penalize. Conversely, manual high-quality content generation is slow and expensive to scale.
 
@@ -140,6 +146,11 @@ uv run python pipeline.py --loops 5
 The final stage, **Learn**, is where the "intelligence" of the system resides. After an article is published, the **Evaluation Agent** scores it across dimensions like *Semantic Coverage*, *Readability*, and *SEO Alignment*.
 
 The **Learning Agent** then distill these results. If an article scored exceptionally high, its H2 structure and the "angle" used are extracted and stored as "High-Performing Patterns." Future research phases will prioritize these patterns, creating a self-reinforcing cycle of quality improvement.
+
+---
+
+## 📄 Detailed Technical Article
+For an in-depth exploration of the architecture, design principles, and engineering decisions behind this project, please download and view the [Detailed Technical Article](./SEO_Content_Engine_Article.html).
 
 ---
 
